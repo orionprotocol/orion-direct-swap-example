@@ -1,0 +1,16 @@
+{
+  "name": "orion-direct-swap-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@orionprotocol/contracts": "1.23.13-rc",
+    "ethers": "^6.13.1"
+  }
+}
